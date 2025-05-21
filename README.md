@@ -1,5 +1,5 @@
 # Artist List
-Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de programação Kotlin, criado para aprender princípios básicos da nova UI toolkit Compose.
+Esse projeto é um aplicativo Android nativo desenvolvido com a linguagem de programação Kotlin, criado para aprender princípios básicos da nova UI toolkit Compose.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
